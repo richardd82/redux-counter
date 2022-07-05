@@ -1,5 +1,5 @@
 {
-  "homepage": "https://richardd82.github.io/redux-counter",
+  "homepage": "https://richardd82.github.io/redux-counter/dist",
   "dependencies": {
     "gh-pages": "^4.0.0"
   },
