@@ -1,6 +1,11 @@
 {
+  "homepage": "https://richardd82.github.io/redux-counter",
   "dependencies": {
     "gh-pages": "^4.0.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
   },
   "devDependencies": {
     "deploy-to-github-pages": "^1.0.1"
